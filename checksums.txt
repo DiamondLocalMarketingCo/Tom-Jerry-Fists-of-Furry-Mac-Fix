@@ -1,0 +1,3 @@
+TJPC-CrossOver-M2-Final.exe
+MD5: d84b47ea26be620f4bcc34dd819022ab
+SHA256: 04ed54c3a6e5217afe7f2413c34dab3ba2bb1994accbd6a48f0f6ccb9d6fc894
